@@ -1,6 +1,7 @@
-<img alt="Hedera Hashgraph" src="https://cdn-assets-cloud.frontify.com/local/frontify/eyJwYXRoIjoiXC9wdWJsaWNcL3VwbG9hZFwvc2NyZWVuc1wvMTgwMjE1XC84ZWRmZTg5ZWY2YmVjMjc3ZGUyNGRiMGRjODZjYzJhMi0xNTY2NTg0MTE5LmpwZyJ9:frontify:924C8NPwP7tDUZdiFiTQJdJKZrzMOg7AzjInbzDdGsU?width=2400" />
-
+<p align="center">
+<img src="https://cdn-assets-cloud.frontify.com/local/frontify/eyJwYXRoIjoiXC9wdWJsaWNcL3VwbG9hZFwvc2NyZWVuc1wvMTgwMjE1XC84ZWRmZTg5ZWY2YmVjMjc3ZGUyNGRiMGRjODZjYzJhMi0xNTY2NTg0MTE5LmpwZyJ9:frontify:924C8NPwP7tDUZdiFiTQJdJKZrzMOg7AzjInbzDdGsU" width="1000">
 <h1 align="center">Hedera Heroes</h1>
+</p>
 Contribute code and programming tutorials on the Hedera blog. Earn hbar.
 
 
