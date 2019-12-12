@@ -6,7 +6,7 @@ Contribute code and programming tutorials on the Hedera blog. Earn hbar.
 
 
 # What is Hedera Heroes? 🦸‍♀️
-Hedera Heroes is an effort to encourage developer community collaboration by rewarding you for sharing lessons learned, how-to tutorials, and other informative articles on the  <a href="https://www.hedera.com/blog/">Hedera blog</a>. In return, once your submission is approved you'll receive $100 worth of hbar once your post is published. 
+Hedera Heroes is an effort to encourage developer community collaboration by rewarding you for sharing lessons learned, how-to tutorials, and other informative articles on the  <a href="https://www.hedera.com/blog/">Hedera blog</a>. In return, once your submission is approved you'll receive $100 USD worth of hbar once your post is published. 
 
 # What can I write about? ✍️
 Whatever you like, as long as it is helpful for other developers building on Hedera. Topics can range from more theoretical architectures to how to use Hedera File Service to manage credential checks with Java. Check out this <a href="https://github.com/hashgraph/hedera-heroes/issues">repository's issues for topics</a> we're looking for and inspirational ideas. 
