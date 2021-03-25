@@ -2,11 +2,10 @@
 <img src="https://cdn-assets-cloud.frontify.com/local/frontify/eyJwYXRoIjoiXC9wdWJsaWNcL3VwbG9hZFwvc2NyZWVuc1wvMTgwMjE1XC84ZWRmZTg5ZWY2YmVjMjc3ZGUyNGRiMGRjODZjYzJhMi0xNTY2NTg0MTE5LmpwZyJ9:frontify:924C8NPwP7tDUZdiFiTQJdJKZrzMOg7AzjInbzDdGsU" width="1000">
 <h1 align="center">Hedera Heroes</h1>
 </p>
-Contribute code and programming tutorials on the Hedera blog. Earn hbar.
-
+Contribute code and programming tutorials on the Hedera blog. Earn rewards.
 
 # What is Hedera Heroes? 🦸‍♀️
-Hedera Heroes is an effort to encourage developer community collaboration by rewarding you for sharing lessons learned, how-to tutorials, and other informative articles on the  <a href="https://www.hedera.com/blog/">Hedera blog</a>. In return, once your submission is approved you'll receive $100 USD worth of hbar once your post is published. 
+Hedera Heroes is an effort to encourage developer community collaboration by rewarding you for sharing lessons learned, how-to tutorials, and other informative articles on the  <a href="https://www.hedera.com/blog/">Hedera blog</a>. In return, once your submission is approved you'll receive a $100 USD reward once your post is published. 
 
 # What can I write about? ✍️
 Whatever you like, as long as it is helpful for other developers building on Hedera. Topics can range from more theoretical architectures to how to use Hedera File Service to manage credential checks with Java. Check out this <a href="https://github.com/hashgraph/hedera-heroes/issues">repository's issues for topics</a> we're looking for and inspirational ideas. 
