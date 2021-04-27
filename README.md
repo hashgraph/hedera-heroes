@@ -2,7 +2,7 @@
 <img src="https://cdn-assets-cloud.frontify.com/local/frontify/eyJwYXRoIjoiXC9wdWJsaWNcL3VwbG9hZFwvc2NyZWVuc1wvMTgwMjE1XC84ZWRmZTg5ZWY2YmVjMjc3ZGUyNGRiMGRjODZjYzJhMi0xNTY2NTg0MTE5LmpwZyJ9:frontify:924C8NPwP7tDUZdiFiTQJdJKZrzMOg7AzjInbzDdGsU" width="1000">
 <h1 align="center">Hedera Heroes</h1>
 </p>
-Contribute code and programming tutorials on the Hedera blog. Earn hbar.
+Contribute code and programming tutorials on the Hedera blog.
 
 
 # What is Hedera Heroes? 🦸‍♀️
@@ -23,5 +23,5 @@ We're here to help. Fill out the <a href="https://www.surveymonkey.com/r/hedera-
 
 
 # Important disclaimer our lawyers required us to add. 🕴
-Submissions will be approved at the sole discretion of Hedera Hashgraph. Eligibility for Hedera Heroes is not guaranteed upon meeting the above criteria, and participation in this program is at Hedera’s sole discretion. Additional terms may apply, including those published at www.hedera.com/terms. Note that any distributions may be taxable to you, and Hedera may request additional information from you either before or after the distributions are made. We do not guarantee any monetary value associated with hbars.
+Submissions will be approved at the sole discretion of Hedera Hashgraph. Eligibility for Hedera Heroes is not guaranteed upon meeting the above criteria, and participation in this program is at Hedera’s sole discretion. Additional terms may apply, including those published at www.hedera.com/terms. Note that any distributions may be taxable to you, and Hedera may request additional information from you either before or after the distributions are made.
 
